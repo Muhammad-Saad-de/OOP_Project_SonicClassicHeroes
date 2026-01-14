@@ -1,6 +1,9 @@
 # Sonic Classic Heroes
 A classic Sonic-inspired platformer built with C++ and SFML, featuring team-based mechanics with Sonic, Tails, and Knuckles.
 
+Menu: <img width="1202" height="939" alt="menu" src="https://github.com/user-attachments/assets/89b62e0e-fde9-4eca-9405-444e3291a328" />
+
+
 **Team Project** - Developed collaboratively by Muhammad Saad and Muntazir, demonstrating advanced object-oriented programming principles.
 
 ## About
@@ -73,7 +76,6 @@ Dual factory systems for runtime object creation:
 * **CMake** - Cross-platform build system
 
 ## **Snapshots**
-Menu: <img width="1202" height="939" alt="menu" src="https://github.com/user-attachments/assets/89b62e0e-fde9-4eca-9405-444e3291a328" />
 Sonic speed: <img width="1202" height="939" alt="sonic ability" src="https://github.com/user-attachments/assets/6345b3c8-66e4-4110-8cac-4e3d96e0e4a0" />
 Tails Flying: <img width="1202" height="939" alt="flying" src="https://github.com/user-attachments/assets/144b9a89-0df5-43d0-a7e9-2c9c4f684a4d" />
 Knuckles Punch: <img width="1202" height="939" alt="knuckles" src="https://github.com/user-attachments/assets/ac853b68-b45a-43fc-b4cd-3b0bd6da3b42" />
