@@ -72,6 +72,14 @@ Dual factory systems for runtime object creation:
 * **SFML 2.5+** - Graphics, audio, and input handling
 * **CMake** - Cross-platform build system
 
+## **Snapshots**
+Menu: <img width="1202" height="939" alt="menu" src="https://github.com/user-attachments/assets/89b62e0e-fde9-4eca-9405-444e3291a328" />
+Sonic speed: <img width="1202" height="939" alt="sonic ability" src="https://github.com/user-attachments/assets/6345b3c8-66e4-4110-8cac-4e3d96e0e4a0" />
+Tails Flying: <img width="1202" height="939" alt="flying" src="https://github.com/user-attachments/assets/144b9a89-0df5-43d0-a7e9-2c9c4f684a4d" />
+Knuckles Punch: <img width="1202" height="939" alt="knuckles" src="https://github.com/user-attachments/assets/ac853b68-b45a-43fc-b4cd-3b0bd6da3b42" />
+Level 2, low friction ice level: <img width="1202" height="939" alt="level 2" src="https://github.com/user-attachments/assets/50cc0e68-3b85-42a2-9f78-6a9dc08584c0" />
+level 3, low gravity space level: <img width="1202" height="939" alt="level 3" src="https://github.com/user-attachments/assets/11520c96-ce9b-4513-925b-ff2d4d43e76f" />
+Boss level: <img width="1202" height="939" alt="boos level " src="https://github.com/user-attachments/assets/2d9333a8-19c2-45a8-aa57-85946fc32364" />
 ## Building the Project
 
 ### Prerequisites
